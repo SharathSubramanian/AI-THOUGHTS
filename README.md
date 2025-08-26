@@ -1,1 +1,1 @@
-# This is a Repo just to store AI-THOUGHTS 
+# This is a Repo just to store AI Projects
